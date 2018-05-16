@@ -1,7 +1,7 @@
 # simpleudpclientserver
 Simple UDP server and client applications
 
-*How to build and run?
+How to build and run?
 - Prequistes:
 + Ubuntu or Mac OSX or Windows
 + GCC/Clang support C++11. In my case, I used g++4.9 or clang-900.0.39.2
